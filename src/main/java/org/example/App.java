@@ -7,7 +7,7 @@ package org.example;
 public class App 
 {
     static int sumar(int a, int b){
-        return a+b;
+        return a+b+5;
 
     }
     public static void main( String[] args )
